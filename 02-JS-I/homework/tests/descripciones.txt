@@ -1,0 +1,5 @@
+VARIABLES: es para guardar el valor de algo y que lo puedo utilizar mas tarde 
+STRING:una línea de texto que se define entre comillas 
+FUNCIONES: objetos que al tener variables se les puede indicar una accion o comando con las funciones 
+DECLARACIONES: son valores, palabras o comentarios que estaran dados para realizar algo 
+VALORES BOOLEANOS: se utiliza para definir una valor verdadero o falso 
